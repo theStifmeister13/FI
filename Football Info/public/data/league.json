@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Premier League",
+    "competition_id": "2021",
+    "image" : "epl"
+  },
+  {
+    "name": "La Liga",
+    "competition_id": "2014",
+    "image" : "laliga"
+  },
+  {
+    "name": "Bundesliga",
+    "competition_id": "2002",
+    "image" : "bundesliga"
+  },
+  {
+    "name": "Ligue 1",
+    "competition_id": "2015",
+    "image" : "ligue1"
+  }
+]
